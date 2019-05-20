@@ -1,0 +1,15 @@
+arithmetic operator
+    +, -, *, /, %, **
+    // floor division
+
+
+relational operator
+   >, >=, < , <=, ==, !=
+
+
+logical operator
+   and, or, not
+
+membership test operator
+    in, not in
+

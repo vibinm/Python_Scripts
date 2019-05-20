@@ -1,0 +1,22 @@
+datatypes
+
+numeric
+    -int
+    -float
+    -complex
+
+str   (immutable object)
+boolean
+nonetype
+
+compound
+    -list   (array), ordered collections,
+    -dict  (hash, hash-maps), (key, values), lookup database
+    -set
+    -tuple  (readonly list), immutable object
+
+Sequence type / object [str, list, tuple]
+operations
+    a. indexing
+    b, slicing
+    c. iteration

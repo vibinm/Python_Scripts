@@ -1,0 +1,5 @@
+<directories>
+    <directory name="/tmp">
+        <file mtime="Sat 13 Apr 2019 12:12:12" size="1234">temp.txt</file>
+    </directory>
+</directories>

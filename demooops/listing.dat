@@ -1,0 +1,10 @@
+total 36
+drwxr-xr-x 3 ravi ravi 4096 Apr 18 10:45 demooops
+-rw-r--r-- 1 ravi ravi 3270 Apr 18 10:35 passwd.txt
+-rw-r--r-- 1 ravi ravi 3270 Apr 18 10:19 passwd.txt.bak
+-rw-r--r-- 1 ravi ravi  183 Apr 18 09:31 psdemoregexmatchmultiple.py
+-rw-r--r-- 1 ravi ravi  312 Apr 18 09:21 psdemoregexmatch.py
+-rw-r--r-- 1 ravi ravi  203 Apr 18 10:35 psdemosed.py
+-rw-r--r-- 1 ravi ravi  264 Apr 18 10:16 psdemosub.py
+-rw-r--r-- 1 ravi ravi  287 Apr 18 09:43 psgrepme.py
+drwxr-xr-x 5 ravi ravi 4096 Apr 17 11:56 venv
